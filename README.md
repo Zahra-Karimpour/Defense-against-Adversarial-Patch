@@ -56,6 +56,7 @@ Coordinates of vertice of the real mask (the exact place that the adversarial pa
 (139,145) , (204,145) , (139,210) , (204,210)
 Coordinates of vertice of the calculated mask (where we predict the mask would be at):
 (138,145) , (206,145) , (138,210) , (206,210)
+
 ---
 
 ![](./Results/Example1.png)
@@ -67,6 +68,7 @@ Coordinates of vertice of the real mask (the exact place that the adversarial pa
 (90,69) , (155,69) , (90,134) , (155,134)
 Coordinates of vertice of the calculated mask (where we predict the mask would be at):
 (90,69) , (155,69) , (90,134) , (155,134)
+
 ---
 
 ![](./Results/Example2.png)
@@ -78,6 +80,7 @@ Coordinates of vertice of the real mask (the exact place that the adversarial pa
 (74,148) , (139,148) , (74,213) , (139,213)
 Coordinates of vertice of the calculated mask (where we predict the mask would be at):
 (72,148) , (140,148) , (72,213) , (140,213)
+
 ---
 
 ![](./Results/Example3.png)
