@@ -21,7 +21,7 @@ def imsave(img,addr='./bar.png'):
     npimg = img.numpy()
     plt.imshow(np.transpose(npimg, (1, 2, 0)))
     # plt.show()
-    plt.savefig(name)
+    plt.savefig(name,dpi=600) 
 
 def normalize_0_1(inp):
   return (inp-inp.min())/(inp.max()-inp.min())
