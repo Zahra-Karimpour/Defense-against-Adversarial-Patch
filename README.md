@@ -53,8 +53,11 @@ Here are several examples.
 
 Example1:
 Coordinates of vertice of the real mask (the exact place that the adversarial patch was at):
+
 (139,145) , (204,145) , (139,210) , (204,210)
+
 Coordinates of vertice of the calculated mask (where we predict the mask would be at):
+
 (138,145) , (206,145) , (138,210) , (206,210)
 
 ---
@@ -65,8 +68,11 @@ Coordinates of vertice of the calculated mask (where we predict the mask would b
 
 Example2:
 Coordinates of vertice of the real mask (the exact place that the adversarial patch was at):
+
 (90,69) , (155,69) , (90,134) , (155,134)
+
 Coordinates of vertice of the calculated mask (where we predict the mask would be at):
+
 (90,69) , (155,69) , (90,134) , (155,134)
 
 ---
@@ -77,8 +83,11 @@ Coordinates of vertice of the calculated mask (where we predict the mask would b
 
 Example3:
 Coordinates of vertice of the real mask (the exact place that the adversarial patch was at):
+
 (74,148) , (139,148) , (74,213) , (139,213)
+
 Coordinates of vertice of the calculated mask (where we predict the mask would be at):
+
 (72,148) , (140,148) , (72,213) , (140,213)
 
 ---
