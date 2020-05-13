@@ -42,12 +42,6 @@ In order to handle these outliers and make the saliency map dense, we first proc
 **STEP2: Removing the patch**:
 Thereon, after localizing the adversarial perturbation, we feed the input image with the predicted patch location to a pretrained [Image Inpainting](https://github.com/daa233/generative-inpainting-pytorch) model. Here we exhibit several sample results. (For the inpainting model to work, please download the corresponding config.yaml and pretrained model by going to [this link](https://github.com/daa233/generative-inpainting-pytorch).)
 
----
-
-![](./auxiliary_images/outlier_handled.png)
-
----
-
 **Examples**:
 Here are several examples.
 
